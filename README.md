@@ -2,4 +2,4 @@
 
 Check out my mixtape
 
-![Operation Surgical Strike](surgery.jpg)
+![Operation Surgical Strike](Surgery.jpg)
